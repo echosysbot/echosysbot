@@ -37,9 +37,9 @@ $ cipher --status
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=echosysbot&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=echosysbot&color=blueviolet&style=flat-square&label=Profile+Views)
+![Repos](https://img.shields.io/badge/Repos-Building-blue?style=flat-square&logo=github)
+![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square)
 
 ---
 
